@@ -1,0 +1,14 @@
+C:\Application development\Week3Workshop\Task3\bin\Debug\net10.0\Task3.exe
+C:\Application development\Week3Workshop\Task3\bin\Debug\net10.0\Task3.deps.json
+C:\Application development\Week3Workshop\Task3\bin\Debug\net10.0\Task3.runtimeconfig.json
+C:\Application development\Week3Workshop\Task3\bin\Debug\net10.0\Task3.dll
+C:\Application development\Week3Workshop\Task3\bin\Debug\net10.0\Task3.pdb
+C:\Application development\Week3Workshop\Task3\obj\Debug\net10.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Application development\Week3Workshop\Task3\obj\Debug\net10.0\Task3.AssemblyInfoInputs.cache
+C:\Application development\Week3Workshop\Task3\obj\Debug\net10.0\Task3.AssemblyInfo.cs
+C:\Application development\Week3Workshop\Task3\obj\Debug\net10.0\Task3.csproj.CoreCompileInputs.cache
+C:\Application development\Week3Workshop\Task3\obj\Debug\net10.0\Task3.dll
+C:\Application development\Week3Workshop\Task3\obj\Debug\net10.0\refint\Task3.dll
+C:\Application development\Week3Workshop\Task3\obj\Debug\net10.0\Task3.pdb
+C:\Application development\Week3Workshop\Task3\obj\Debug\net10.0\Task3.genruntimeconfig.cache
+C:\Application development\Week3Workshop\Task3\obj\Debug\net10.0\ref\Task3.dll
